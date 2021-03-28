@@ -1,6 +1,6 @@
 # Latex Picture Drawing Tool
 
-Used to be opened on top of a picture for easy redrawing. (assumes a 200x100 window)
+Semi-transparent for easy use on top of an image. (assumes a 200x100 window)
 
 
 ## Usage
